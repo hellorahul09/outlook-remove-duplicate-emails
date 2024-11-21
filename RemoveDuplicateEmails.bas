@@ -1,8 +1,8 @@
 '================================================================================
 ' Module: RemoveDuplicateEmails
 ' Description: Removes duplicate emails from the current Outlook folder.
-' Author: [Your Name]
-' Date: [Date]
+' Author: [Rahul Kumar Singh]
+' Date: [21 Nov 2024]
 ' License: MIT
 '================================================================================
 
