@@ -17,8 +17,9 @@ This VBA macro removes duplicate emails from the currently selected Outlook fold
 3. Import the `RemoveDuplicateEmails.bas` and `ProgressForm.frm` files:
    - Go to `File > Import File`.
    - Select the `.bas` file and `.frm` file.
-   NOTE: Make sure that all 3 files 'RemoveDuplicateEmails.bas`, 'ProgressForm.frx' and 'ProgressForm.frm' exists on the same directory while improting. however you dont have to import    'ProgressForm.frx' at all, it will be imported automatically.
 4. Close the VBA editor and return to Outlook.
+
+**NOTE: Make sure that all 3 files 'RemoveDuplicateEmails.bas`, 'ProgressForm.frx' and 'ProgressForm.frm' exists on the same directory while improting. however you dont have to import    'ProgressForm.frx' at all, it will be imported automatically.**
 
 ## Usage
 1. Navigate to the folder where you want to remove duplicate emails.
