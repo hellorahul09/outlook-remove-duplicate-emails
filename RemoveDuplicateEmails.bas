@@ -6,6 +6,7 @@
 ' License: MIT
 '================================================================================
 
+Attribute VB_Name = "DeleteDuplicateEmails"
 Sub RemoveDuplicateEmailsSafely()
     Dim OutApp As Outlook.Application
     Dim MailFolder As Outlook.folder
@@ -82,3 +83,5 @@ Sub RemoveDuplicateEmailsSafely()
     Set MailItem = Nothing
     Set UniqueItems = Nothing
 End Sub
+
+
